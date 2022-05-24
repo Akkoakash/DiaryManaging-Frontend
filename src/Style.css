@@ -1,0 +1,14 @@
+.add-button{
+    color:blue;
+    font-size: 20px;
+    padding: 9px 45px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    right: 18px;
+}
+.event-calender{
+    padding: 9px 45px;
+    margin-left: 40px;
+}

@@ -1,0 +1,18 @@
+.header{
+    display:flex;
+    background-color: red;
+
+}
+.header_left{
+    flex:0.4;
+    color:whitesmoke;
+}
+.header_left>h1{
+    text-align: center;
+    letter-spacing: 2px;
+}
+.header_left>h1>.MuiSvgIcon-root{
+    font-size: 30px;
+    padding-top: 5px;
+    
+}
